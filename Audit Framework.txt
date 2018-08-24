@@ -1,0 +1,4 @@
+A generalised solution to enable Audit tracking of changes to data in various tables in SQL Server.
+Can be switched between space optimised or Read optimised.
+
+This is an ongoing Project and I will be updating it as and when possible for me.
